@@ -1,5 +1,5 @@
 {
-  "name": "node-auth",
+  "name": "nodejs-jwt-auth",
   "version": "0.0.0",
   "private": true,
   "scripts": {
